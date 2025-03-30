@@ -3,7 +3,7 @@
 
 ## Citation
 
-If using this system in research, please cite:
+If using this dataset in research, please cite:
 ```
 @misc{pitayaid2025,
   title={Dragon Fruit Stem Diseases dataset},
