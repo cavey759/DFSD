@@ -1,5 +1,8 @@
-# DFSD
- A Dragon Fruit Stem Diseases (DFSD) dataset of dragon fruit stem diseases, with 10,170 images across 13 classes, was field-collected. (Paper under review; dataset to be supplemented later.) It differentiates early/middle-to-late stages of canker and black spot, aiming to detect early symptoms, support early intervention, and curb disease spread.
+## DFSD Dragon Fruit Stem Diseases Dataset
+This dataset was systematically collected and annotated in natural field environments, containing 10,170 images covering 13 classes of dragon fruit stem diseases and healthy states. Currently, the related research paper is undergoing peer review at an international journal, with the dataset being continuously updated in parallel.
+
+## Core Advantages & Values
+The dataset focuses on two major diseases (canker and black spot), providing detailed annotations of early and middle-to-late stages developments. It supports the development of early disease detection algorithms by offering multi-class samples under complex field backgrounds. This enables precise disease control for farmers, reduces chemical pesticide usage, and promotes the advancement of smart agriculture.
 
 ## Citation
 
